@@ -1,0 +1,11 @@
+E:\TUT\PROYECTOS\RELOJ\RELOJ\bin\Debug\RELOJ.exe.config
+E:\TUT\PROYECTOS\RELOJ\RELOJ\bin\Debug\RELOJ.exe
+E:\TUT\PROYECTOS\RELOJ\RELOJ\bin\Debug\RELOJ.pdb
+E:\TUT\PROYECTOS\RELOJ\RELOJ\obj\Debug\RELOJ.Form1.resources
+E:\TUT\PROYECTOS\RELOJ\RELOJ\obj\Debug\RELOJ.Properties.Resources.resources
+E:\TUT\PROYECTOS\RELOJ\RELOJ\obj\Debug\RELOJ.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\RELOJ\RELOJ\obj\Debug\RELOJ.exe
+E:\TUT\PROYECTOS\RELOJ\RELOJ\obj\Debug\RELOJ.pdb
+D:\RJ Code Advance\Source Code C#\2018\TIEMPO REAL\RELOJ\RELOJ\bin\Debug\RELOJ.exe.config
+D:\RJ Code Advance\Source Code C#\2018\TIEMPO REAL\RELOJ\RELOJ\obj\Debug\RELOJ.exe
+D:\RJ Code Advance\Source Code C#\2018\TIEMPO REAL\RELOJ\RELOJ\obj\Debug\RELOJ.pdb
